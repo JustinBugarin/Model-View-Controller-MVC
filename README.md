@@ -43,7 +43,7 @@ A database will need to be created first then seeded wih data.
 
 ## Screenshot
 
-![An example blog:](assets/images/tech_blog.png)
+![An example blog:](assets/images/techblogexample.PNG)
 
 ## License
 
